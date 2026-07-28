@@ -11,7 +11,6 @@ import Comparison from "@/components/Comparison";
 import WhatYouGet from "@/components/WhatYouGet";
 import AudienceAndResults from "@/components/AudienceAndResults";
 import Trust from "@/components/Trust";
-import Testimonials from "@/components/Testimonials";
 import FAQ from "@/components/FAQ";
 import FinalCTA from "@/components/FinalCTA";
 import Footer from "@/components/Footer";
@@ -33,7 +32,6 @@ export default function Home() {
       <WhatYouGet />
       <AudienceAndResults />
       <Trust />
-      <Testimonials />
       <FAQ />
       <FinalCTA />
       <Footer />
