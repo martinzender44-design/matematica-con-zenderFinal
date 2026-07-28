@@ -1,0 +1,14 @@
+Coloca aquí las imágenes reales del proyecto con estos nombres exactos
+(o actualiza las rutas en src/data/site-config.ts, objeto IMAGES):
+
+- hero-teacher.jpg         → Foto real del profesor enseñando (hero, columna derecha)
+- hero-class-screen.jpg    → Captura de una clase virtual (uso opcional)
+- calculator-graphic.png   → Foto o render de la calculadora gráfica (uso opcional)
+- teacher-authority.jpg    → Foto del profesor para la sección de autoridad/confianza
+- og-image.jpg             → Imagen para Open Graph / redes sociales (1200x630 px)
+
+Recomendaciones:
+- Usa formato WebP o JPG optimizado para mejor rendimiento.
+- El rostro del profesor no debe modificarse ni distorsionarse.
+- Tamaño sugerido para hero-teacher.jpg: 640x720 px o proporción similar (retrato).
+- Tamaño sugerido para teacher-authority.jpg: 480x560 px.
